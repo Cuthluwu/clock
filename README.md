@@ -1,4 +1,4 @@
-Project Title: Chada Tech Dual Clock Display – 12-Hour and 24-Hour Format Simulation
+ Chada Tech Dual Clock Display – 12-Hour and 24-Hour Format Simulation
 Project Summary
 
 This project simulates a dual clock system that displays both 12-hour and 24-hour time formats, meeting the ISO 8601 international standard. The application allows users to increment the time by one hour, minute, or second through a simple menu interface. The objective was to apply key programming concepts such as modular design, input handling, and control flow using C++. The program focuses on clarity, functionality, and maintainability—skills essential in professional software development.
